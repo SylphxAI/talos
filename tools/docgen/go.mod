@@ -1,6 +1,6 @@
 module github.com/siderolabs/talos/tools/docgen
 
-go 1.26.8
+go 1.27.0
 
 require (
 	github.com/gomarkdown/markdown v0.0.0-20260917010721-cc30ffac3c05
@@ -17,8 +17,9 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/buger/jsonparser v1.6.1 // indirect
+	github.com/dlclark/regexp2 v1.12.0 // indirect
 	github.com/gorilla/css v1.0.1 // indirect
-	golang.org/x/net v0.59.0 // indirect
-	golang.org/x/text v0.42.0 // indirect
-	golang.org/x/tools v0.50.0 // indirect
+	golang.org/x/net v0.61.0 // indirect
+	golang.org/x/text v0.43.0 // indirect
+	golang.org/x/tools v0.51.0 // indirect
 )
